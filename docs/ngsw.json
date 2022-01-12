@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1641987453208,
-  "index": "/index.html",
+  "timestamp": 1641987707093,
+  "index": "https://web-dev-tutor.github.io/enrollment/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.4c5dae8ee353808e.js",
-        "/manifest.webmanifest",
-        "/polyfills.914165029d2f89e7.js",
-        "/runtime.3ff173917fb247e9.js",
-        "/styles.c68f72f4e289a805.css"
+        "https://web-dev-tutor.github.io/enrollment/favicon.ico",
+        "https://web-dev-tutor.github.io/enrollment/index.html",
+        "https://web-dev-tutor.github.io/enrollment/main.4c5dae8ee353808e.js",
+        "https://web-dev-tutor.github.io/enrollment/manifest.webmanifest",
+        "https://web-dev-tutor.github.io/enrollment/polyfills.914165029d2f89e7.js",
+        "https://web-dev-tutor.github.io/enrollment/runtime.3ff173917fb247e9.js",
+        "https://web-dev-tutor.github.io/enrollment/styles.c68f72f4e289a805.css"
       ],
       "patterns": []
     },
@@ -29,37 +29,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png",
-        "/assets/logo.png"
+        "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-128x128.png",
+        "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-144x144.png",
+        "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-152x152.png",
+        "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-192x192.png",
+        "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-384x384.png",
+        "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-512x512.png",
+        "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-72x72.png",
+        "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-96x96.png",
+        "https://web-dev-tutor.github.io/enrollment/assets/logo.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/assets/logo.png": "28374dbacc84f0514018f44681344fc5f5a9ba34",
-    "/favicon.ico": "38784495877b59bd38d1c87a091386a788182ac6",
-    "/index.html": "5151063a6473568c378aa0e303c09d40982d66a5",
-    "/main.4c5dae8ee353808e.js": "1c4da1ec624b13bdd08b3062e753fd8ec852120d",
-    "/manifest.webmanifest": "e790292b01e3726aa1bb846861b0bac5006facd1",
-    "/polyfills.914165029d2f89e7.js": "f721ffe44247e547b4d86a9993875a2796c7a097",
-    "/runtime.3ff173917fb247e9.js": "4d527c9ecf1ecc8c4db226a8bf7547ca7739b335",
-    "/styles.c68f72f4e289a805.css": "b971726cbf4a0d097ff89334c9cce0a6b18373e2"
+    "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://web-dev-tutor.github.io/enrollment/assets/logo.png": "28374dbacc84f0514018f44681344fc5f5a9ba34",
+    "https://web-dev-tutor.github.io/enrollment/favicon.ico": "38784495877b59bd38d1c87a091386a788182ac6",
+    "https://web-dev-tutor.github.io/enrollment/index.html": "3508c0580506fc1569cb64923ff46826889c4a68",
+    "https://web-dev-tutor.github.io/enrollment/main.4c5dae8ee353808e.js": "1c4da1ec624b13bdd08b3062e753fd8ec852120d",
+    "https://web-dev-tutor.github.io/enrollment/manifest.webmanifest": "e790292b01e3726aa1bb846861b0bac5006facd1",
+    "https://web-dev-tutor.github.io/enrollment/polyfills.914165029d2f89e7.js": "f721ffe44247e547b4d86a9993875a2796c7a097",
+    "https://web-dev-tutor.github.io/enrollment/runtime.3ff173917fb247e9.js": "4d527c9ecf1ecc8c4db226a8bf7547ca7739b335",
+    "https://web-dev-tutor.github.io/enrollment/styles.c68f72f4e289a805.css": "b971726cbf4a0d097ff89334c9cce0a6b18373e2"
   },
   "navigationUrls": [
     {
