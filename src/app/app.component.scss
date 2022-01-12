@@ -9,12 +9,21 @@
 }
 
 
-table {
+.top {
   margin: 2em auto;
   tr {
     th {
       padding-right: 2em;
       text-align: right;
+    }
+  }
+}
+
+.sub {
+  width: 100%;
+  tr {
+    th {
+      text-align: center;
     }
   }
 }
