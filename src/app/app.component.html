@@ -5,7 +5,7 @@
   <div class="card highlight-card card-small">
 
     <svg id="rocket" xmlns="http://www.w3.org/2000/svg" width="101.678" height="101.678" viewBox="0 0 101.678 101.678">
-      <title>Rocket Ship</title>
+      <title></title>
       <g id="Group_83" data-name="Group 83" transform="translate(-141 -696)">
         <circle id="Ellipse_8" data-name="Ellipse 8" cx="50.839" cy="50.839" r="50.839" transform="translate(141 696)"
           fill="#dd0031" />
@@ -20,11 +20,11 @@
       </g>
     </svg>
 
-    <span>欢迎报名田一块Web全栈培训</span>
+    <span>欢迎报名田一块计算机培训</span>
 
     <svg id="rocket-smoke" xmlns="http://www.w3.org/2000/svg" width="516.119" height="1083.632"
       viewBox="0 0 516.119 1083.632">
-      <title>Rocket Ship Smoke</title>
+      <title></title>
       <path id="Path_40" data-name="Path 40"
         d="M644.6,141S143.02,215.537,147.049,870.207s342.774,201.755,342.774,201.755S404.659,847.213,388.815,762.2c-27.116-145.51-11.551-384.124,271.9-609.1C671.15,139.365,644.6,141,644.6,141Z"
         transform="translate(-147.025 -140.939)" fill="#f5f5f5" />
@@ -89,13 +89,14 @@
           </tr>
         </table>
         <hr />
-        <mat-select>
-          <mat-option value="one">JavaScript基础班</mat-option>
-          <mat-option value="two">Java基础班</mat-option>
-          <mat-option value="two">C/C++语言基础班</mat-option>
-          <mat-option value="two">PHP基础班</mat-option>
-          <mat-option value="two">Python基础班</mat-option>
-        </mat-select>
+        <h3>请选择您的课程：</h3>
+        <mat-radio-group class="curriculum">
+          <mat-radio-button value="JavaScript">JavaScript基础班</mat-radio-button> 
+          <mat-radio-button value="Java">Java基础班</mat-radio-button>
+          <mat-radio-button value="C/C++">C/C++基础班</mat-radio-button>
+          <mat-radio-button value="PHP">PHP基础班</mat-radio-button>
+          <mat-radio-button value="Python">Python基础班</mat-radio-button>
+        </mat-radio-group>
       </mat-tab>
       <mat-tab label="Web前端/后端/全栈就业班">
         <table mat-table class="top">
@@ -109,7 +110,7 @@
           </tr>
           <tr>
             <th>学费</th>
-            <td>前端:6000(元) <br />后端: 6000(元) <br />全栈: 8000(元)</td>
+            <td>前端: 6000(元) <br />后端: 6000(元) <br />全栈: 8000(元)</td>
           </tr>
           <tr>
             <th>学时</th>
@@ -190,11 +191,12 @@
           </tr>
         </table>
         <hr />
-        <mat-select>
-          <mat-option value="one">Web前端班</mat-option>
-          <mat-option value="two">Web后端班</mat-option>
-          <mat-option value="two">Web全栈班</mat-option>
-        </mat-select>
+        <h3 class="opening">请选择您的课程(即将开通)：</h3>
+        <mat-radio-group class="curriculum">
+          <mat-radio-button disabled value="前端班">Web前端，交互，网页开发班</mat-radio-button>
+          <mat-radio-button disabled value="后端班">Web服务器，接口，数据库开发班</mat-radio-button>
+          <mat-radio-button disabled value="全栈班">Web全栈班(包括前后端的全部课程)</mat-radio-button>
+        </mat-radio-group>
       </mat-tab>
     </mat-tab-group>
   </div>
@@ -211,9 +213,7 @@
     <mat-label>备注</mat-label>
     <textarea matInput></textarea>
   </mat-form-field>
-
-
-  <button mat-raised-button>提交</button>
+  <button mat-raised-button>确认报名</button>
   <footer>
     Love Angular?&nbsp;
     <a href="https://github.com/angular/angular" target="_blank" rel="noopener">

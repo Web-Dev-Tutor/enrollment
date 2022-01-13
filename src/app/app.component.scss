@@ -8,7 +8,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-
 .top {
   margin: 2em auto;
   tr {
@@ -26,6 +25,18 @@
       text-align: center;
     }
   }
+}
+
+.curriculum {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 2em;
+  align-items: flex-start;
+  line-height: 2em;
+}
+
+.opening {
+  color:rgba(0, 0, 0, 0.38);
 }
 
 h1,
