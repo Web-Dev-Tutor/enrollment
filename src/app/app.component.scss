@@ -48,6 +48,9 @@ h6 {
   margin: 8px auto;
   &.select {
     text-align: center;
+    img {
+      width: 100%;
+    }
   }
 }
 
