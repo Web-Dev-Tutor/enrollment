@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1642010348053,
+  "timestamp": 1642130221485,
   "index": "https://web-dev-tutor.github.io/enrollment/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://web-dev-tutor.github.io/enrollment/favicon.ico",
         "https://web-dev-tutor.github.io/enrollment/index.html",
-        "https://web-dev-tutor.github.io/enrollment/main.7f08b74c07ca6048.js",
+        "https://web-dev-tutor.github.io/enrollment/main.3240ac7fd4fcc016.js",
         "https://web-dev-tutor.github.io/enrollment/manifest.webmanifest",
         "https://web-dev-tutor.github.io/enrollment/polyfills.914165029d2f89e7.js",
         "https://web-dev-tutor.github.io/enrollment/runtime.3ff173917fb247e9.js",
@@ -37,7 +37,8 @@
         "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-512x512.png",
         "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-72x72.png",
         "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-96x96.png",
-        "https://web-dev-tutor.github.io/enrollment/assets/logo.png"
+        "https://web-dev-tutor.github.io/enrollment/assets/logo.png",
+        "https://web-dev-tutor.github.io/enrollment/assets/wx.jpg"
       ],
       "patterns": []
     }
@@ -53,9 +54,10 @@
     "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://web-dev-tutor.github.io/enrollment/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://web-dev-tutor.github.io/enrollment/assets/logo.png": "28374dbacc84f0514018f44681344fc5f5a9ba34",
+    "https://web-dev-tutor.github.io/enrollment/assets/wx.jpg": "d0beca14903c3c982683aba60b23d278abab4a89",
     "https://web-dev-tutor.github.io/enrollment/favicon.ico": "38784495877b59bd38d1c87a091386a788182ac6",
-    "https://web-dev-tutor.github.io/enrollment/index.html": "cd03871e367a3ba6d5d5ef3ed41d206e399383be",
-    "https://web-dev-tutor.github.io/enrollment/main.7f08b74c07ca6048.js": "f52c0611a9245c9d352dbc1a979f13c61c1e75e7",
+    "https://web-dev-tutor.github.io/enrollment/index.html": "36c86647c544bc766a974b2243608003f2324abd",
+    "https://web-dev-tutor.github.io/enrollment/main.3240ac7fd4fcc016.js": "bafdaddb4f4770f60c6d6b4e47574bef5860c238",
     "https://web-dev-tutor.github.io/enrollment/manifest.webmanifest": "e790292b01e3726aa1bb846861b0bac5006facd1",
     "https://web-dev-tutor.github.io/enrollment/polyfills.914165029d2f89e7.js": "f721ffe44247e547b4d86a9993875a2796c7a097",
     "https://web-dev-tutor.github.io/enrollment/runtime.3ff173917fb247e9.js": "4d527c9ecf1ecc8c4db226a8bf7547ca7739b335",
